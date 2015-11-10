@@ -86,3 +86,8 @@ make test-cedar-14
 The tests are run via the vendored
 [shunit2](http://shunit2.googlecode.com/svn/trunk/source/2.1/doc/shunit2.html)
 test framework.
+
+------------------------
+To use WEBPACK to create static bundle
+ 
+http://blog.arkency.com/2015/10/creating-custom-heroku-buildpack-for-webpack-and-ruby-on-rails-integration/
